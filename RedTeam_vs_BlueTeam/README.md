@@ -92,12 +92,12 @@ The tools, processes, achievements and execution of the vulnerabilities mentione
 
 
   3. **Execution**
-    - "seceret_folder" instructions:
+   - "seceret_folder" instructions:
 
       ![](Images/step5_secretfolder_instructions.PNG)
 
-    - Crackstation.net:
-
+   - Crackstation.net:
+      
       ![](Images/Step5_crackstation.PNG)
 
 
@@ -113,11 +113,11 @@ The tools, processes, achievements and execution of the vulnerabilities mentione
 
 
   3. **Execution**
-    - Msfvenom Command:
+   - Msfvenom Command:
 
       ![](Images/step7_msfvenom.PNG)
 
-    - LFI Exploit:
+   - LFI Exploit:
 
       ![](Images/step7_uploadpayload.PNG)
 
