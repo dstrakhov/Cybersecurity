@@ -48,7 +48,7 @@ The configuration details of each machine may be found below.
 The machines on the internal network are not exposed to the public Internet.
 
 Only the JumpBox machine can accept connections from the Internet. Access to this machine is only allowed from the following IP addresses:
-- _Local Workstation's Public IP__
+- _Local Workstation's Public IP_
 
 Machines within the network can only be accessed by the JumpBox machine.
 - _The ELK VM is only accessible via ssh from the JumpBox and through web access from the local workstation's public IP address._
