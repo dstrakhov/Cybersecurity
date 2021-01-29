@@ -6,7 +6,7 @@ This project consisted of a Red Team vs Blue Team scenario in which I played the
 
 _Red Team Role_: As the Red Team, the goal was to attack a vulnerable VM (Capstone VM) within the specific environment. The end goal is to ultimately gain root access to the machine.
 
-_Blue Team Role_: As the Blue Team, the goal was to review the logs taken during the Red Team's engagement. Once the logs are reviewed, the blue team will had to interpret the data in order to suggest mitigation measures for each exploit that was performed by the Red Team.
+_Blue Team Role_: As the Blue Team, the goal was to review the logs taken during the Red Team's engagement. Once the logs are reviewed, the blue team will have to interpret the data in order to suggest mitigation measures for each exploit that was performed by the Red Team.
 
 #### Project Objectives
 
